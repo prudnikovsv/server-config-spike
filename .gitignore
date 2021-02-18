@@ -1,0 +1,36 @@
+# Java Output
+build/
+target/
+out/
+log/
+*.log
+teste2e/out
+
+# Tooling
+.gradle/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.DS_Store
+*.iws
+.classpath
+.project
+.settings/
+
+# Docusaurus Output
+docs/public
+docs/.docusaurus
+docs/build
+docs/teste2e/node_modules
+docs/node_modules
+*.nojekyll
+
+# BBoot plugins
+.artifactory.cache
+src/test/resources/gradle-project-version.txt
+
+# Perf tests output
+test/performance/node_modules
+test/performance/reports
